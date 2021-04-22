@@ -1,0 +1,104 @@
+.col-md-9{
+padding-left: 20%;
+margin-top: -88%;
+ 
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.blogPostMainWrapper .related-topics-box {
+    margin: 0 0 20px;
+    padding: 6px 6px 8px;
+    background: #eef4fa;
+    border-radius: 6px;
+    color: #586474;
+}
+.blogPostMainWrapper .left-column {
+    width: 35%;
+}
+.blogPostMainWrapper .related-topics-box .heading {
+    font-size: 20px;
+    padding-left: 9px;
+    color: #001c3b;
+}
+.blogPostMainWrapper .related-topics-box .topic-wrapper {
+    padding: 8px 14px;
+    font-weight: 500;
+    background: #fff;
+    margin: 5px;
+    border-radius: 5px;
+    transition: all .2s;
+    box-shadow: 0 2px 2px #d8e2f3;
+}
+.blogPostMainWrapper .related-topics-box .topic-wrapper .topic-img {
+    width: 20px;
+    height: 20px;
+}
+img {
+    vertical-align: middle;
+}
+.blogPostMainWrapper .related-topics-box .topic-wrapper .topic-name {
+    margin: 0;
+    margin-left: 12px;
+    font-weight: 500;
+}
+.blog-post-section{
+    margin-left: -8%;
+    width: 70%;
+    margin-top: 20px;
+}
+.topic-name{
+    
+    text-align: left;
+    margin-top: -16px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+}
+
+
+.fx {
+    display: flex;
+}
+.blogPostMainWrapper .right-column {
+    width: 72%;
+}
+.fx-topic-wrapper{
+    background-color: white;
+    border-radius: 6px;
+    
+}
+.blogPostMainWrapper .post-wrapper .post-head {
+    background: rgba(216,226,243,.2);
+    border-radius: 6px;
+    padding-left: 30px!important;
+    padding-right: 30px!important;
+}
+.blogPostMainWrapper .post-wrapper .content p {
+    font-size: 16px;
+    color: #001c3b;
+    margin-bottom: 12px;
+    line-height: 1.5;
+    text-align: justify;
+}
+.main-body{
+    width: 150%;
+    margin-top: 30px;
+    text-align: justify;
+}
+.blogPostMainWrapper .text-light {
+    color: #7b8a9a !important;
+}
+.text{
+    padding: 10px;
+}
+/*footer*/
+.footer-list{
+    list-style: none;
+    display: flex;
+    padding: 0 0 0 80%;
+    margin-top: -28px;
+}
+.list1{
+    padding-right: 23px;
+}
